@@ -1,0 +1,3 @@
+C:/Users/zhongmeiqi/CLionProjects/testProject5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhongmeiqi/CLionProjects/testProject5/cmake-build-debug/CMakeFiles/testProect.dir
+C:/Users/zhongmeiqi/CLionProjects/testProject5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
